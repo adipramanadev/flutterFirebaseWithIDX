@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701254219291",
+    "project_id": "crudmascrist",
+    "storage_bucket": "crudmascrist.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701254219291:android:59d1147061d1d4e4deaabe",
+        "android_client_info": {
+          "package_name": "com.example.myap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzuC7Y1QTpSPyCzAThEXJEajc5pHwr2Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
